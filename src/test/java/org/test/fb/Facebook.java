@@ -14,7 +14,8 @@ public class Facebook extends BaseClass{
 		
 		sendKeys(l.getTextusername(),"Kesavini" );
 		sendKeys(l.getTextpassword(), "12345678");
-		
+		System.out.println("test 1");
+		System.out.println("test2");
 	
 		
 		
