@@ -8,7 +8,8 @@ public class Facebook extends BaseClass{
 		
 		chromeLaunch();
 		urlLaunch("https://www.facebook.com/");
-	
+		System.out.println("test 5");
+	System.out.println("test 6");
 		
 		
 	}
